@@ -1,0 +1,87 @@
+[
+	{
+		"name": "Netflix",
+		"url": "https://www.netflix.com",
+		"image": "apps/netflix.webp"
+	},
+	{
+		"name": "Youtube",
+		"url": "https://www.youtube.com",
+		"image": "apps/youtube.webp"
+	},
+	{
+		"name": "now.gg",
+		"url": "https://now.gg",
+		"image": "apps/nowgg.webp"
+	},
+	{
+		"name": "x",
+		"url": "https://x.com",
+		"image": "apps/x.webp"
+	},
+	{
+		"name": "Gmail",
+		"url": "https://mail.google.com",
+		"image": "apps/gmail.webp"
+	},
+	{
+		"name": "Geforce NOW (BETA)",
+		"url": "https://play.geforcenow.com/mall/",
+		"image": "apps/GFN.webp"
+	},
+	{
+		"name": "Telegram (a)",
+		"url": "https://web.telegram.org/a/",
+		"image": "apps/Telegram.webp"
+	},
+	{
+		"name": "Discord",
+		"url": "https://discord.com/app",
+		"image": "apps/discord.webp"
+	},
+	{
+		"name": "Chess.com",
+		"url": "https://chess.com",
+		"image": "apps/chess.webp"
+	},
+	{
+		"name": "Xbox Cloud Gaming",
+		"url": "https://www.xbox.com/en-us/play",
+		"image": "apps/xbox.webp"
+	},
+	{
+		"name": "Crazy Games",
+		"url": "https://www.crazygames.com/",
+		"image": "apps/crazygames.webp"
+	},
+	{
+		"name": "Spotify",
+		"url": "https://open.spotify.com/",
+		"image": "apps/spotify.webp"
+	},
+	{
+		"name": "Pandora",
+		"url": "https://www.pandora.com/",
+		"image": "apps/pandora.webp"
+	},
+	{
+		"name": "Reddit",
+		"url": "https://reddit.com/",
+		"image": "apps/reddit.webp"
+	},
+	{
+		"name": "TikTok",
+		"url": "https://www.tiktok.com/en/",
+		"image": "apps/tiktok.webp"
+	},
+	{
+		"name": "Poki",
+		"url": "https://www.poki.com/",
+		"image": "apps/poki.webp"
+	},
+	{
+		"name": "SFlix",
+		"url": "https://sflix.to/",
+		"image": "apps/sflix.webp"
+	}
+]
