@@ -21,11 +21,11 @@ const publicPath = "public";
 app.set("views", join(__dirname, publicPath, "html"));
 
 app.use(express.static(publicPath));
-app.use("/uv/", express.static(uvPath));
-app.use("/epoxy/", express.static(epoxyPath));
-app.use("/baremux/", express.static(baremuxPath));
-app.use("/libcurl/", express.static(libcurlPath));
-app.use("/bareasmodule/", express.static(bareModulePath));
+app.use("uv/", express.static(uvPath));
+app.use("epoxy/", express.static(epoxyPath));
+app.use("baremux/", express.static(baremuxPath));
+app.use("libcurl/", express.static(libcurlPath));
+app.use("bareasmodule/", express.static(bareModulePath));
 
 app.get("/", (req, res) => {
 	res.sendFile(join(__dirname, publicPath, "html", "index.html"));
@@ -92,10 +92,10 @@ server.on("listening", () => {
 	console.log("Listening on:");
 	console.clear();
 	console.log(
-		chalk.green(`🚀 Lunaar V6 Listening on http://localhost:${address.port}`),
+		chalk.green(`🚀 Algebra V6 Listening on http://localhost:${address.port}`),
 	);
 	console.log();
-	console.log(chalk.magenta(`🌙 Made by the Parcoil Network`));
+	console.log(chalk.magenta(`🌙 Made by the NOMS King`));
 	console.log();
 	console.log(chalk.white(`⭐ Please Star on github`));
 });
